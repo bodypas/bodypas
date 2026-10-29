@@ -9,8 +9,6 @@
 ![](https://streak-stats.demolab.com/?user=bodypas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bodypas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=bodypas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=bodypas&style=flat-square)
